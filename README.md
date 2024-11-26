@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+# Hi ヾ(＾∇＾) I'm Lubaba!
 
-<h1 style="background-color:powderblue;"> (≧◡≦) ♡ Hi! I'm Lubaba!!! </h1>
+(づ｡◕‿‿◕｡)づ **I'm a teenage hacker~!**  
+What does that mean? Well, I'm 15 year old from NYC and I dedicate a lot of my time coding and working with hardware. 
+
+---
+
+![]([https://yourgifurl.com/demo.gif](https://media.tenor.com/pBdSZujHiacAAAAM/tkthao219-bunny.gif))
 
